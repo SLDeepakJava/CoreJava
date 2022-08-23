@@ -1,0 +1,23 @@
+Agenda :
+
+
+Methods
+
+Constructor
+
+Oops
+
+
+syntax method:
+accessModifier void methodName(datatype param1,datatype param2){
+
+}
+
+void -- will not return any value
+
+To access non-static variable or methdod we need to create a object:
+
+syntax :
+ClassName referenceVariable = new ClassName();
+
+

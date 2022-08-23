@@ -1,0 +1,95 @@
+TypeCasting :
+
+
+int i = 10;			int j = 2.5;
+double d = 20.4;		double  d1 = 10;
+char c = 'A';			
+
+homogenous assignment		heterogenous assignment
+
+Typecasting : converting one type to another type is called 
+typecasting in java.
+
+Typecasting :
+1) Primitive Casting -- converting one primitive datatype to another
+2) Derived Casting -- converting one object type to another 
+
+
+Primitive Casting :
+
+1) Auto widening -- converting lowest data type to highter datatype
+2) Explicit Narrowing --converting highest datatype to lowest datatype
+
+
+4 access modifier in java :
+
+1)default 
+2)public
+3)private
+4)protected
+
+
+
+default modifier:
+it can be access in same package only
+it cannot be access in differnt package 
+it can be access in diffrent class in same package also	
+
+public modifier:
+it can be access in same package
+it can be accessed in diffrent package
+it can be accessed in same package diffrent class also
+
+private modifier:
+it can be accessed only within the class only
+
+protected modifier :
+
+it can be accessed through inheritance in diffrent package
+
+
+operators :
+1) binary operator -- +,-
+2) Unary Operator -- !,++,--
+
+increment -- pre-increment and post-increment
+
+Block -- static block
+
++ -- cancatenation
+
+
+
+
+local variable 
+-- int i;
+print(i);
+
+static variable
+
+-- direct access
+--- using className.variableName
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+

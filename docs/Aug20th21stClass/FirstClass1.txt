@@ -1,0 +1,121 @@
+
+JDK -- developing and executing program
+JRE -- execute program
+
+Core Java(J2SE) -- develop desktop application
+J2EE -- web application
+
+Desktop application
+Web application
+Mobile application
+
+Phases of any programming :
+
+1. Development Phase
+2. Compilation Phase
+3. Execution Phase
+
+
+their some concepts ,whithout these concepts we cannot write any progam ?
+
+any programming is madeup of below things :
+1. Identifier
+   user defined variable 
+2. Keyword
+   reserved words
+   every keywords will have its own meaning
+   keywords cannot be used as identifier
+   keywords will be in lowercase
+3. Literals -- 10,30.45, 'A',"Hello"
+
+number
+decimal
+character
+word data
+
+10
+30.23
+A 	
+
+
+any text editors  or IDE
+
+class Hello { // class definition block
+
+//empty class
+
+}
+
+
+how many datatypes we have in java ?
+
+
+1) primitive datatype
+2)reference datatype
+
+8 datatypes:
+
+byte --- integer data -- 1byte = 8bits
+short -- integer data --         16bits
+int -- integer data              32bits
+long -- interger data            64bits
+
+float --  decimal data --- 32bits
+double -- decimal data -- 64bits
+char -- 
+boolean -- true/false
+
+String -- is a class ,sequence of characters 
+
+sytanx :
+datatype variableName; 
+
+int wordValue; //camelCase
+
+wordValue = 10;
+
+int wordValue = 10;
+
+
+ 
+2) reference type 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

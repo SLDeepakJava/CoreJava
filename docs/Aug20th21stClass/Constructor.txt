@@ -1,0 +1,42 @@
+different between static and non-static :
+
+1)use static if you want all the instance to use the same value 
+2)use non-static if you want to provide different values for each object 
+
+1)if i want to access a variable without creating a object then go for static
+2)if i want t access variable using object then go for non-static
+
+
+memory management :
+
+1) a class a executed in java the memory allocated will be divided into two areas:
+Stack -- LIFO -- sotring local variables and methods 
+Heap -- storing objects
+2)while running a class ,java calls the class loader , the class loader loads
+all the static members into the heap.
+the pool of static members is called as static area or static pool.
+static members are loaded only one time for entire execution
+3)The non-static members are loaded into the memory during creation of object
+each instace or object will get one copy of static members.
+4)an object of class can be created multiple times.
+
+
+
+Constuctor are used to initilize the non-static members
+1) every class will have atleast one constructor
+2) if developer does not write any constrcutor then java will provide a default
+constructor , Employee() {}.
+3)constructor will get called durign object creation
+4)constrcutor will not have any return types
+
+this is a keyword ,used to refer current object members
+
+we can have a multiple constructor but it shoudl vary in terms of no of arg
+in same class is called as constructor overloading 
+
+
+
+
+
+
+
