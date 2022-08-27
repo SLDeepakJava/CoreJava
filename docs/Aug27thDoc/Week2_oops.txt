@@ -1,0 +1,66 @@
+Oops:
+
+1)Encapsulation
+2)Inheritance
+3)Abstration and interface
+4)Polymorphism
+
+inheritance :
+code re-usability
+to acheive polymorphism
+
+1) to acheive inheritance we need two class.
+2)we will have parent or super class and child or subclass
+3)inheriting members from super class to subclass is called as
+inheritance
+4)we use extends keyword to inherit members from super class
+
+
+their are two relationship types in inheritance :
+1) IS-A relationship --  describes the relationship between super
+class and subclass
+2)HAS-A relationship --  describes the specific feature of a class
+
+
+method overloading:
+1)when we have multiple method with same name and different
+no of argument is called as method overloading
+2)when the operation remains same ,only the logic changes then 
+will go for method overloading
+3)change if argument shoudl diff in terms of no of argument and 
+datatype
+4)method overloading can be implemented in same class 
+and in different class
+
+
+method overriding:
+
+1)method overriding can be implemented in differet class
+2)method with same name and same no of args is called method overriding
+3)when my method name remains same ,only the logic changes then
+we will override the method in subclass
+4)to achieve override inheritance should happen
+5)it is the ability to define behavious taht is specific 
+to a particular subclass type
+
+abstract :
+1) a method without body or implementation is called as abstract method
+2)abstract method should be defined with abstract keyword
+3)if a class contains any abstract method ,then whole class
+we should make as abstract.
+4)when we need some method logic should be share across the
+subclass and some method we want the subclass to mandatorily
+provide implementaton then we will go for abstract method.
+5)we cannot create a object for abstract method
+6)if a subclass does not provide implementation for abstract method
+then the subclass will become abstract class.
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,21 @@
+basic java fundamentals 
+local and static variables
+datatypes 
+access modifier
+constructors
+methods
+typecasting
+java modules
+phases of java
+operators
+packages
+types application developed using java modules
+jdk and jre
+memory management
+
+JDK -- we can develop and execute the program  
+jre -- we can only execute the program
+
+
+a++
+++a
