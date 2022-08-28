@@ -1,0 +1,85 @@
+Oops :
+
+1)Encapsulation
+2)Inheritance -- 
+3)abstract and interface 
+
+super() and this()
+
+a class extending multiple class is called as multiple inheritance
+java does not support multiple inheritance in class
+
+diamond problem with mutliple inheritance
+multiple inheritance can be achieved thorught interface
+
+
+from java 8 onwards we can have a method with body in interface,
+those method should be defined with default keyword.
+
+in interface we can achieve multiple inheritance
+
+
+
+Polymorphism : one name many forms 
+--- two types polumorphism:
+1)compile time or static binding 
+ex: method overloading
+2)runtime time or dynamic binding
+ex: method overriding 
+
+
+Final is a keyword
+a variable declared using final ,the value cannot be changes
+a class defined using final ,cannot be inherited
+a method defined using final ,cannot be overrided
+
+
+Object class is the super most class of all clasess
+if a class does not extend any class then by default it will
+extend Object class
+Object class contains below methods:
+toString()
+equals()
+sleep()
+wait()
+clone()
+hashCode()
+
+
+--------------------
+String -- it is a class
+
+StringBuffer
+StringBuilder
+
+by default all methods in string buffer are synchronized 
+stringbuilder is faster 
+---------------
+
+arrays are object in java
+arrays are used to store multiple values of same datatype
+
+syntax:
+primitive/object[] arrVariable = new primitive/object[size];
+
+arrays are not growable and they are static in nature
+once we define the size ,we cannot change
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
