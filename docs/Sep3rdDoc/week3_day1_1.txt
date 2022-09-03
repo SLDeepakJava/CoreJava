@@ -1,0 +1,4 @@
+Upcasting == converting subclass object to superclass object
+down casting == converting super class object to subclass object
+ direct downcasint is not possible 
+only upcasted object can be downcasted

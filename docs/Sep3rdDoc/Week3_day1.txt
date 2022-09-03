@@ -1,0 +1,40 @@
+two ways to handle the exception :
+
+1)using try and catch block
+2)by declaring the exception 
+
+
+			Object
+			   |
+			Throwable
+			   |
+	Error			     Exception
+					|
+				Checked     Unchecked 	
+
+
+ArrayIndexOutOfBoundException
+ArithmeticException
+NoclassDefFoundException
+FileNotFoundException
+
+try catch should be surrounded
+not statements allowed in between
+
+----------------------------------------
+
+File
+
+write a file :
+FileWriter
+BufferWriter
+FileOutPutStream
+
+Read a file :
+FileReader
+BufferReader
+FileInputStream
+
+serialization
+
+
