@@ -1,0 +1,26 @@
+efficeincy depends :
+
+no of lines of code
+the amount of memory or backing storage needed
+time taken to execute the program
+
+
+the execution time depends on :
+the size of the data set
+number of comparisons made
+
+function O() of N, the no of elements to be processed
+
+common expressioare O(N) , O(N2) and O(Log2 N) 
+
+
+O(N) -- linear search
+means that the number of comparisons increases directly with
+the number of items.
+
+O(log2 N) -- binary search
+
+
+
+
+

@@ -1,0 +1,36 @@
+searching :
+	
+linear search
+binary search
+exponential search
+
+sort :
+how to sort a list ? Collections.sort()
+Arrays.sort();
+Comparable and Comparator interface -- ex for functional interface
+
+Stack -- LIFO -- push and pop 
+Queue -- FIFO
+
+
+Sorting :
+
+merge sort -- will follow divide and conquer --  o(N LOG2 N)
+bubble sort --  O(N2)
+quick sort --  o(N LOG2 N)
+selection sort 
+insertion sort
+
+
+
+
+
+
+
+
+
+
+
+
+
+   

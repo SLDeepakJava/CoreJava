@@ -1,0 +1,145 @@
+
+
+Threads -- extending thread class and implementing runnable interface
+
+Collections
+
+
+
+
+8 primitive datatypes :
+
+byte  --- Byte
+short -- Short
+int -- Integer
+long -- Long
+
+
+float
+double
+
+
+
+11
+5
+8
+9
+
+print : 11 5 8 9
+
+
+
+when multiple objects trying to access the same method ,
+simultaneously 
+
+
+Data structure :
+
+Stack
+Queue
+
+searching alogirth
+sorting alogorith
+
+
+
+Stack :
+
+LIFO -- last in first out manner 
+
+push -- used to insert the element
+pop -- used to remove the element
+
+
+
+Big O notation :
+1) O(N)--  N -- no of elements
+2)O(N2)
+3)O(log2N)
+linear seach is o(n)
+
+binary search --  O(log2 N)
+
+
+
+
+key = 12 and arr = {10,20,34,12,50}
+linear search -- it compares the key with all the elements in
+array
+
+key = 40 and arr = {10,20,30,40,50}
+start = 0
+end = 4
+mid = (start+end)/2;
+
+mid 30
+
+30 == key -> false
+
+start = mid+1
+end == 4
+
+
+for binary search all the elements should be sorted 
+binary search - > it will find the middle value and compare
+if middle value is not matching ,then it will divide two part and
+compare left and right part 
+
+
+		     0  1  2  3  4	
+key = 40 and arr = {10,20,30,40,50}
+
+arr[0] == key -- > false
+arr[1] == key --> false
+
+{30,40,50} -- this part i will give to binarysearch for comparison
+
+
+exponential search : will compare the key with index 0 and 1
+linearly and then will pass the index from 2 to binarysearch algo
+to find the key 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
