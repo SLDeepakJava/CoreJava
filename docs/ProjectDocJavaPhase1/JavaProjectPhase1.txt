@@ -1,0 +1,108 @@
+Scrum methodlogy / Agile process :
+
+to track the status of the user story or application
+
+client --> application
+PO -- > get the usersotry 
+-- scrum team 
+
+-- 1 Sprint or iteration --- > 10days
+
+everyday the developer need to give his update in daily call:
+1)what is done yesterday
+2)what is in progress
+3)what is the work to be doing today
+4)is thier any blocker ?
+5)collaboration 
+   
+userstory:
+task 1 --> deepak -- 6hours or 10hours
+task 2 -- chetan
+task 3 --> ramu
+
+userstory : virtual key project
+
+setting up the project ---> 1hr
+creating github repo --> 1hr
+wrtiting a main method --> 8hr -- 10hrs monday
+
+create pojo classes --> 2hr
+code to read the user input --> 1hr
+validating the user input --> 1hr
+
+testing application ---> 8hr
+writing unit test case -->5hr
+end to end testing of application -->>5hr
+
+DOD --> Definition of done
+
+
+Monday:
+
+sprint day1 :
+ task1 -- it is completed
+task2 --- it in progress
+task3 -- it is dependent on other class ,it will in progress
+
+Tueday
+
+sprint day2:
+task1 --
+task 2
+task 3
+
+
+
+---------------------------
+
+Specification Document:
+
+Project Name:
+Introduction
+Vision
+Mission
+Technologies used
+Requirement
+Features
+Functionality
+unit testcase
+screen shots
+
+3 option :
+1)Retreiving the file names in ascending order
+2)Business level operaion
+  1)add
+  2)search
+  3)delete
+  4)navigate to the main manu context
+3)close the application --> System.exit(0);
+
+Scanner sc = new Scanner(System.in);
+
+git init --> to convert normal folder to git folder
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
